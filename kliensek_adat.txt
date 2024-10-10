@@ -1,0 +1,5 @@
+[{'allomas': 'PC3', 'ip': '10.0.2.129', 'halozat': '0004.9A42.C245'}]
+[{'allomas': 'PC3', 'ip': '10.0.2.129', 'halozat': '0004.9A42.C245'}, {'allomas': 'PC1', 'ip': '10.0.1.129', 'halozat': '00E0.A330.3359'}]
+[{'allomas': 'PC3', 'ip': '10.0.2.129', 'halozat': '0004.9A42.C245'}, {'allomas': 'PC1', 'ip': '10.0.1.129', 'halozat': '00E0.A330.3359'}, {'allomas': 'PC2', 'ip': '10.0.2.130', 'halozat': '0060.47C1.A4DB'}]
+[{'allomas': 'PC3', 'ip': '10.0.2.129', 'halozat': '0004.9A42.C245'}, {'allomas': 'PC1', 'ip': '10.0.1.129', 'halozat': '00E0.A330.3359'}, {'allomas': 'PC2', 'ip': '10.0.2.130', 'halozat': '0060.47C1.A4DB'}, {'allomas': 'Admin', 'ip': '10.0.1.130', 'halozat': '0050.0FCE.B095'}]
+[{'allomas': 'PC3', 'ip': '10.0.2.129', 'halozat': '0004.9A42.C245'}, {'allomas': 'PC1', 'ip': '10.0.1.129', 'halozat': '00E0.A330.3359'}, {'allomas': 'PC2', 'ip': '10.0.2.130', 'halozat': '0060.47C1.A4DB'}, {'allomas': 'Admin', 'ip': '10.0.1.130', 'halozat': '0050.0FCE.B095'}, {'allomas': 'Server', 'ip': '192.168.101.100', 'halozat': '000A.413D.D793'}]
